@@ -33,7 +33,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [AngelList](https://angel.co/jobs)
 - [GitHub Jobs](https://jobs.github.com/positions?description=&location=Remote)
 - [OndeTrabalhar](http://www.ondetrabalhar.com/em/home-office-remoto)
-- [JOBBOX](https://www.jobbox.io/offers?t=&s=featured&r=on)
+- [Landing.jobs](https://landing.jobs/offers)
 - [Toptal](http://www.toptal.com/)
 - [Remote OK](http://remoteok.io/)
 - [oDesk](https://www.odesk.com/)
